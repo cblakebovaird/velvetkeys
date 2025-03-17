@@ -27,6 +27,12 @@ body.main{
     font-family: serif;
 }
 
+body.about{
+    background-color: rgb(82, 5, 72);
+    color: gold;
+    font-family: serif;
+}
+
 #main-footer {
     background-color: gray;
 }

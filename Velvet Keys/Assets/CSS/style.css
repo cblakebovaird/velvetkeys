@@ -1,0 +1,72 @@
+#vkTitle {
+    color: goldenrod;
+    font-family:"Lucida Handwriting", serif;
+    padding-bottom: 50px;
+}
+
+
+
+#goldKey {
+   align-self: center;
+    height: 100px;
+
+}
+div.jumbotron{
+    padding-top: 200px;
+    text-align: center;
+    background-image:url("/Assets/Images/liquidGold.jpg");
+    background-size: cover;
+}
+.jumbotron {
+    background-color:white;
+}
+
+body.main{
+    background-color: maroon;
+    color: gold;
+    font-family: serif;
+}
+
+#main-footer {
+    background-color: gray;
+}
+
+#break{
+    background-color:black;
+}
+
+body.contact {
+    background-color: #0d3413;
+    color:gold;
+    font-family:serif;
+}
+
+#home-link,
+#about-link,
+#portfolio-link,
+#contact-link{
+    color: gold;
+} 
+ 
+hr {
+    background-color: gold;
+}
+
+#portfolio {
+    background-color: rgb(213, 95, 4);
+    color:gold;
+}
+
+p{
+    text-indent: 50px;
+}
+
+footer{
+    color:gold;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+
